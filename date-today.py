@@ -12,3 +12,6 @@ def main():
 if __name__ == '__main__':
     main()
 
+from my_package import code_sugar
+
+
